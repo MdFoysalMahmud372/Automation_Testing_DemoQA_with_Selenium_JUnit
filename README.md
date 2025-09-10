@@ -6,10 +6,10 @@ This project is a **Maven-based automation test suite** for the [DemoQA](https:/
 
 ## 📌 Features
 
-- ✅ Automates multiple components of the DemoQA site (forms, elements, etc.)
-- ✅ Uses Page Object Model (POM) for modular and maintainable code.
-- ✅ Integrates with Maven for build & dependency management.
-- ✅ Automatically generates test execution reports.
+- Automates multiple components of the DemoQA site (forms, elements, etc.)
+- Uses Page Object Model (POM) for modular and maintainable code.
+- Integrates with Maven for build & dependency management.
+- Automatically generates test execution reports.
 
 ---
 
@@ -55,8 +55,8 @@ This project is a **Maven-based automation test suite** for the [DemoQA](https:/
 
 ## Author & Tester
 
-**[Arifin Mahmud](https://www.linkedin.com/in/arifin-mahmud/)**  
-Aspiring QA Engineer | Passionate about quality, bugs, and clean test cases.
+**Md. Foysal Mahmud**  
+Software Qaulity Assurance Engineer
 
 
 
